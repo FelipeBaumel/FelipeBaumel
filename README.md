@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-Meu nome é Felipe Baumel e sou um curioso aprendendo JavaScript, HTML e CSS! Estou muito animado para mergulhar no mundo do desenvolvimento web e explorar todas as possibilidades que essas linguagens podem oferecer.
+Meu nome é Felipe Baumel e sou um curioso aprendendo JavaScript, HTML e CSS. Estou muito animado para mergulhar no mundo do desenvolvimento web e explorar todas as possibilidades que essas linguagens podem oferecer.
 
 Acompanhe minha jornada aqui no GitHub enquanto eu compartilho meu progresso e os projetos interessantes em que estou trabalhando. Sinta-se à vontade para entrar em contato se tiver alguma dica, recurso ou oportunidade de colaboração. Vamos aprender juntos!
 
